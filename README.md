@@ -13,7 +13,7 @@ Requests+PyExecJS
 
 - **1、Fidder抓包,发现返回的数据跟个鬼一样**
 
-<img src="https://raw.githubusercontent.com/NearHuiwen/JzscCrawler/master/JzscCrawler/image/1681978576151.png" width="800">
+<img src="https://raw.githubusercontent.com/NearHuiwen/JzscCrawler/master/image/1681978576151.png" width="800">
   
 
 - **2、定位JS文件**
@@ -24,7 +24,7 @@ Requests+PyExecJS
 
 其实大厂加密都简单，安全防护之类的完全不靠js加密，靠的是风控，用一个大佬跟我说的话，当你把加解密破解之后，游戏才刚刚开始
 
-<img src="https://raw.githubusercontent.com/NearHuiwen/JzscCrawler/master/JzscCrawler/image/1681979257343.png" width="800">
+<img src="https://raw.githubusercontent.com/NearHuiwen/JzscCrawler/master/image/1681979257343.png" width="800">
   
 确定AES了，考虑一般是AES直接加密或者AES + RSA，企业比较广泛吧，不知道哪个Diao毛想的，玩挺花
 
